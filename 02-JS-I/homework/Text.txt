@@ -1,0 +1,25 @@
+    * Variables:
+    Las variables son como regalos que se le pueden dar a un amigo(Interprete de nuestro codigo) que le gusten 
+    los libros y estos pueden ser de diferentes tipos:
+    -Libros de numeros sin decimales (Variables de tipo Int)
+    -Libros de numeros con decimales(Variables de tipo Float)
+    -Libros de letras del abecedario (Variables de tipo Char)
+    -Libros de poesia (Variables de tipo String)
+    -Libros de numeros Binarios(Booleanos)
+
+	* Strings:
+    Es como algo que le vas a decir a un amigo por medio de una carta, en esta carta puedes hablar de cualquier tipo
+    de libro, pero esto solo va a ser un mensaje
+
+	* Funciones (argumentos, `return`):
+    Es como cuando le vas a preguntar a un amigo que le gusta mucho las series acerca de alguna, tu le tienes que 
+    decirle el nombre de la serie sobre la que vas a preguntar(Argumento) y este te va a dar su opinion(Return)
+
+	* Declaraciones `if`:
+    Es como cuando tu le pides algo de navidad a tus padres ellos van a establecer unas condiciones y depende si
+    se cumplen o no que te den lo que pediste puede pasar o no.
+
+	* Valores booleanos (`true`, `false`):
+    Esto es como si tuvieses un amigo que solo se sabe todos los chismes pero solo puede
+    decir si y no y depende su respuesta puedes saber el valor de verdad de esos chismes, es decir si son verdad 
+    o no lo son.
