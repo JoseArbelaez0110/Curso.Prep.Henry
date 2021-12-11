@@ -1,0 +1,18 @@
+* `for` : 
+El for lo usamos cuando queremos que se realice una tarea mientras se cumpla cierta condicion, es 
+similar a que un padre le diga a su hijo " necesito que mientras no se acabe el año me digas que numero del año es,
+de tal modo mientras la condicion de que el año aun no se acabe se cumpla, deberemos informarle que dia del año es .
+
+* `&&` : 
+El && lo usamos cuando necesitamos que se cumplan 2 condiciones para poder que se realice una accion, es decir, 
+podemos tomar el ejemplo anterior y que un padre le diga a su hijo si tienes un promedio superiror a 4 y trabajas
+todos los dias, te comprare una moto ( en caso de que una de las 2 condiciones no se cumpla, la accion no se ejecutara)
+
+* `||` : 
+El || es un caso similar al del &&, lo usamos para comparar 2 condiciones, pero con este operador solo es necesario
+que se cumpla una, para que la consecuencia de esta comparacion sea verdadera, podriamos decir que analogo a los 
+ejemplos anteriores seria : si tienes promedio superior a 4 o trabajas todos los dias , te comprare una motocicleta
+(con que suceda una de las 2 condiciones,la consecuencia sera verdadera)
+
+* `!` :
+! Se usa para negar una comparacion podemos incluso negar el valor de verdad de una preposicion usandolo antes de esta misma
