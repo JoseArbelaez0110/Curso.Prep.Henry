@@ -1,0 +1,5 @@
+	* Arrays:
+    Un array es una lista ordenada o desordenada de elemenetos de cualquier tipo, un array tambien puede tener 
+	otros arreglos como por ejemplo : 
+
+	arregloCarros=[nissan[gtr,frontier],toyotaPrado,2];
