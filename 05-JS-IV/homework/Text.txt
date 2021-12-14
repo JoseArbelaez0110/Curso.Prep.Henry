@@ -1,0 +1,16 @@
+	* Objetos:
+           Los objetos podriamos decir que es un algo que tiene ciertas caracteristicas, y una de esas caracteristicas pueden ser 
+           tambien un objeto
+	* Propiedades:
+    las propiedades son como las caracteristicas que tiene un objeto por ejemplo un humano tiene nombre , edad , genero , esas podrian ser
+    dichas caractirsticas que se denominan propiedades
+	* Métodos : 
+    los metodos son acciones que pueden hacerce  con ciertas caracteristicas y que pueden ser parte de un objeto, por ejemplo
+    mover la cola podria ser una caracteristica de un objeto "Perro", que lo que realizara es la accion de mover la cola 
+	* Bucle `for…in`
+
+	* Notación de puntos vs notación de corchetes
+    La notacion de puntos es contextual, es decir puede darse el ejemplo de que 1 palabra puede tener diferente significado
+    donde se use, asi mismo dependiendo la notacion que se use puede interpretarse de una manera u otra, con la notacion de punto
+    podriamos decir que el verdadero significado de la palabra es la del lugar donde la decimos y puede que en nuestra tierra se sginifique
+    otra cosa, pero nosotros entendemos el contexto en el que estamos, mientras que con la de corchetes es literal.
